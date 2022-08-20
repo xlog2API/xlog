@@ -20,3 +20,4 @@ https://t.me/Yengchipi
 ![device generation](https://user-images.githubusercontent.com/111660587/185766158-7000cb13-72d3-46f4-b157-bc4ea347d77c.png)
 ![device validation process](https://user-images.githubusercontent.com/111660587/185766151-b1efa06c-a2fd-45c4-8c1c-8e33c4465394.png)
 ![khronosgorgon](https://user-images.githubusercontent.com/111660587/185766153-aaa126b9-2aec-42dc-bc46-9a0dbee2a1bb.png)
+![validated](https://user-images.githubusercontent.com/111660587/185766566-0691c781-ab97-48aa-926b-8447234f9bc2.png)
