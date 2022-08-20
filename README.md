@@ -1,8 +1,8 @@
 # xlog, ttencrypt/applog
+All files written in python
 xlog api fully decrypted from TIKTOK/DOUYIN
 People are selling xlog for ridiculous prices please be careful as this api can be blocked any time by the backend engineers themselves
 
-all files written in python
 Do not pay over price somewhere else!
 #You need to have gorgon/khronos algorithm for ttencrypt
 + only accepting bitcoin from now 
