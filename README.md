@@ -16,6 +16,10 @@ These files mean that these files are only for educational purposes only! any ot
 add me on telegram 
 https://t.me/Yengchipi
 
+#XLOG ACTIVATION BELOW
+
+
+![xlog](https://user-images.githubusercontent.com/111660587/185773160-f87825d7-5f7b-46b8-945c-a19604e8c161.png)
 
 ![device generation](https://user-images.githubusercontent.com/111660587/185766158-7000cb13-72d3-46f4-b157-bc4ea347d77c.png)
 ![device validation process](https://user-images.githubusercontent.com/111660587/185766151-b1efa06c-a2fd-45c4-8c1c-8e33c4465394.png)
