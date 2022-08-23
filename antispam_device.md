@@ -4,3 +4,6 @@ We do not have to use xlog
 
 
 ![anti_spam](https://user-images.githubusercontent.com/111660587/186225654-ec836c4d-05a9-4d69-af17-0bded9ba12a0.png)
+
+parameters to generate are as,cp,mas
+are needed 
