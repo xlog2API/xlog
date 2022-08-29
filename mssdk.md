@@ -13,8 +13,12 @@ Encryption in hex format...
 
 we will be doing some analysis here with updates 
 
+we can inject straight into some dynamic library / shared object
+
 first decompile latest tiktok apk using jadx
+
 after searching around for a bit we stumble upon hashmap values...
 in function LIZIZ() mostly obfuscated funcs to prevent snooping.
+
 ![dbebada1bc4f3a49cff69206628a7da9](https://user-images.githubusercontent.com/111660587/187262250-bfa4db7d-a630-45d1-bca0-5833419d0681.png)
 
