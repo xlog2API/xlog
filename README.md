@@ -1,4 +1,4 @@
-# xlog, ttencrypt/applog
+# xlog, ttencrypt/applog, mssdk (info)
 # All files written in python
 xlog api fully decrypted from TIKTOK/DOUYIN
 People are selling xlog for ridiculous prices please be careful as this api can be blocked any time by the backend engineers themselves
