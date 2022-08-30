@@ -22,3 +22,8 @@ in function LIZIZ() mostly obfuscated funcs to prevent snooping.
 
 ![dbebada1bc4f3a49cff69206628a7da9](https://user-images.githubusercontent.com/111660587/187262250-bfa4db7d-a630-45d1-bca0-5833419d0681.png)
 
+#investigating web mssdk encryption we see that the response is base64 encoded 
+
+#we will investigate in depth both encryptions should be the same 
+
+![mssdk web](https://user-images.githubusercontent.com/111660587/187497024-570d0c51-bfdd-4951-97a1-5c64aeb02164.png)
