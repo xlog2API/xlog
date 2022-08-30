@@ -31,5 +31,8 @@ in function LIZIZ() mostly obfuscated funcs to prevent snooping.
 
 After going through many requests in web we sift through some js files and we have found obfuscated functions 
 
+or follow this link and inspect source 
+https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.412/webmssdk.js
+
 Time to go through each obfuscated function one by one this can be the confusing/tricky part but it can be done through this file...
 ![mssdk obfuscation](https://user-images.githubusercontent.com/111660587/187557468-51a05e8a-9f50-4ff7-ae2c-c2766c21dec5.png)
