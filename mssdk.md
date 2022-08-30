@@ -34,5 +34,20 @@ After going through many requests in web we sift through some js files and we ha
 or follow this link and inspect source 
 https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.412/webmssdk.js
 
+
+After looking at each function we can see this from this file in formatted version...
+
+
 Time to go through each obfuscated function one by one this can be the confusing/tricky part but it can be done through this file...
-![mssdk obfuscation](https://user-images.githubusercontent.com/111660587/187557468-51a05e8a-9f50-4ff7-ae2c-c2766c21dec5.png)
+![mssdk obfuscation](https://user-images.githubusercontent.com/111660587/187560756-0143d37a-a15d-489a-97f1-13808f9f545f.png)
+
+
+we take a look at some functions in this file... and found 
+![js file mssdk](https://user-images.githubusercontent.com/111660587/187560875-52e37b7e-ddd8-4aa5-9efb-c308bec9cdb6.png)
+
+
+Try and follow the obfuscated function...no more updates for now....
+
+
+
+
